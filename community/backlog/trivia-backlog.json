@@ -319,7 +319,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 24,
@@ -993,7 +993,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 72,
@@ -1007,7 +1007,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 73,
@@ -1021,7 +1021,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 74,
@@ -1329,7 +1329,7 @@
     ],
     "correctIndex": 1,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 96,
@@ -1343,7 +1343,7 @@
     ],
     "correctIndex": 2,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 97,
@@ -1427,7 +1427,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 103,
@@ -1861,7 +1861,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 134,
@@ -1917,7 +1917,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 138,
@@ -1931,7 +1931,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 139,
@@ -1945,7 +1945,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 140,
@@ -1959,6 +1959,6 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   }
 ]

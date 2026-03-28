@@ -495,13 +495,13 @@
     "id": 83,
     "fact": "There's a Japanese word 'nekojita' (猫舌) meaning 'cat tongue' - someone who can't eat or drink hot things.",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 84,
     "fact": "Japan has 'crying rooms' in some theaters where parents can watch movies with babies without disturbing other viewers.",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 85,

@@ -27,7 +27,7 @@
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "DIO",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 4,
@@ -297,7 +297,7 @@
     "anime": "One Piece",
     "character": "Monkey D. Luffy",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 31,
@@ -307,7 +307,7 @@
     "anime": "One Piece",
     "character": "Edward Newgate (Whitebeard)",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 32,
@@ -326,7 +326,7 @@
     "english": "I never give up, believe it!",
     "anime": "Naruto",
     "character": "Naruto Uzumaki",
-    "completed": true,
+    "completed": false,
     "issued": false
   },
   {
@@ -337,7 +337,7 @@
     "anime": "Naruto",
     "character": "Kakashi Hatake",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 35,
@@ -346,7 +346,7 @@
     "english": "A lesson without pain is meaningless.",
     "anime": "Fullmetal Alchemist: Brotherhood",
     "character": "Edward Elric",
-    "completed": true,
+    "completed": false,
     "issued": false
   },
   {
@@ -357,7 +357,7 @@
     "anime": "Attack on Titan",
     "character": "Eren Yeager",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 37,
@@ -857,7 +857,7 @@
     "anime": "Naruto",
     "character": "Kakashi Hatake",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 87,
@@ -867,7 +867,7 @@
     "anime": "Fullmetal Alchemist: Brotherhood",
     "character": "Edward Elric",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 88,
@@ -877,7 +877,7 @@
     "anime": "Attack on Titan",
     "character": "Eren Yeager",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 89,
@@ -917,7 +917,7 @@
     "anime": "Chainsaw Man",
     "character": "Denji",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 93,
@@ -927,7 +927,7 @@
     "anime": "Sailor Moon",
     "character": "Usagi Tsukino",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 94,
@@ -947,7 +947,7 @@
     "anime": "Bleach",
     "character": "Ichigo Kurosaki",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 96,
@@ -1237,7 +1237,7 @@
     "anime": "One Piece",
     "character": "Monkey D. Luffy",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 125,
