@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 
 const NightlyBanner = ({
   onSwitch,
@@ -9,15 +9,22 @@ const NightlyBanner = ({
 }) => {
   const [isVisible, setIsVisible] = useState(false);
   const [isDismissed, setIsDismissed] = useState(false);
+  const dismissTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
-    const timer = setTimeout(() => setIsVisible(true), 100);
-    return () => clearTimeout(timer);
+    const showTimer = setTimeout(() => setIsVisible(true), 100);
+
+    return () => {
+      clearTimeout(showTimer);
+      if (dismissTimerRef.current) {
+        clearTimeout(dismissTimerRef.current);
+      }
+    };
   }, []);
 
   const handleDismiss = () => {
     setIsVisible(false);
-    setTimeout(() => {
+    dismissTimerRef.current = setTimeout(() => {
       if (onDismiss) onDismiss();
       setIsDismissed(true);
     }, 300);

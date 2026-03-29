@@ -20,7 +20,7 @@ const SSRAudioButton: React.FC<SSRAudioButtonProps> = _props => {
     return null;
   }
 
-  // Temporarily disabled
+  // TODO: Re-enable by rendering AudioButton once pronunciation UX is finalized.
   return null;
 };
 
