@@ -1,9 +1,9 @@
 [
   {
-  "japanese": "虎穴に入らずんば虎子を得ず",
-  "romaji": "Koketsu ni irazunba koji wo ezu",
-  "english": "If you don't enter the tiger's den, you can't get the cub",
-  "meaning": "Nothing ventured, nothing gained"
+    "japanese": "虎穴に入らずんば虎子を得ず",
+    "romaji": "Koketsu ni irazunba koji wo ezu",
+    "english": "If you don't enter the tiger's den, you can't get the cub",
+    "meaning": "Nothing ventured, nothing gained"
   },
   {
     "japanese": "雨垂れ石を穿つ",
@@ -274,36 +274,41 @@
     "romaji": "Yudan taiteki",
     "english": "Carelessness is the greatest enemy",
     "meaning": "Don't let your guard down"
-  
   },
   {
-  "japanese": "負けるが勝ち",
-  "romaji": "Makeru ga kachi",
-  "english": "Sometimes losing is winning",
-  "meaning": "Conceding can be the best outcome"
-},
-  {
-  "japanese": "蛙の子は蛙",
-  "romaji": "Kaeru no ko wa kaeru",
-  "english": "A frog's child is a frog",
-  "meaning": "Children resemble their parents"
-},{
-  "japanese": "針の穴から天を覗く",
-  "romaji": "Hari no ana kara ten wo nozoku",
-  "english": "Peek at the sky through a needle's eye",
-  "meaning": "A narrow viewpoint leads to poor judgment"
-},     
-{
-  "japanese": "石の上にも三年",
-  "romaji": "Ishi no ue ni mo sannen",
-  "english": "Three years on a rock",
-  "meaning": "Perseverance brings success"
+    "japanese": "負けるが勝ち",
+    "romaji": "Makeru ga kachi",
+    "english": "Sometimes losing is winning",
+    "meaning": "Conceding can be the best outcome"
   },
   {
-  "japanese": "二度あることは三度ある",
-  "romaji": "Nido aru koto wa sando aru",
-  "english": "What happens twice will happen a third time",
-  "meaning": "Patterns tend to repeat"
-}
+    "japanese": "蛙の子は蛙",
+    "romaji": "Kaeru no ko wa kaeru",
+    "english": "A frog's child is a frog",
+    "meaning": "Children resemble their parents"
+  },
+  {
+    "japanese": "針の穴から天を覗く",
+    "romaji": "Hari no ana kara ten wo nozoku",
+    "english": "Peek at the sky through a needle's eye",
+    "meaning": "A narrow viewpoint leads to poor judgment"
+  },
+  {
+    "japanese": "石の上にも三年",
+    "romaji": "Ishi no ue ni mo sannen",
+    "english": "Three years on a rock",
+    "meaning": "Perseverance brings success"
+  },
+  {
+    "japanese": "二度あることは三度ある",
+    "romaji": "Nido aru koto wa sando aru",
+    "english": "What happens twice will happen a third time",
+    "meaning": "Patterns tend to repeat"
+  },
+  {
+    "japanese": "木を見て森を見ず",
+    "romaji": "Ki wo mite mori wo mizu",
+    "english": "See the trees but not the forest",
+    "meaning": "Miss the bigger picture"
+  }
 ]
-              
